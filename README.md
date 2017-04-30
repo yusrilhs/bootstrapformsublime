@@ -9,6 +9,7 @@ Maybe you are bored and are lazy to type the `div` and` input` bundles for the b
 | Form                      | bf                  |
 | Form Inline               | bfinline            |
 | Form Horizontal           | bfhorizontal        |
+| Form Group                | bfgroup             |
 | Button submit             | bbtn                |
 | Input Text                | bitext              |
 | Input Textarea            | bitextarea          |
@@ -22,3 +23,20 @@ Maybe you are bored and are lazy to type the `div` and` input` bundles for the b
 | Input Radio Inline        | biradioi            |
 | Select                    | bselect             |
 | Help Block                | bhb                 |
+| clearfix                  | bclear              |
+| Input                     | binput              |
+
+### Form horizontal snippet
+
+For form horizontal $number on below is a bootstrap grid system, should be between 1 and 12
+
+| Bootstrap Element             | Snippet                 |
+| ------------------------------|-------------------------|
+| Label Horizontal              | blh$number              |
+| Input Text Horizontal         | bitexth$number          |
+| Input Password Horizontal     | bipasswordh$number      |
+| Input Email Horizontal        | biemailh$number         |
+| Input Number Horizontal       | binumberh$number        |
+| Input Textarea Horizontal     | bitextarea$number       |
+| Select Horizontal             | bselecth$number         |
+| Input Horizontal              | binputh$number          |
