@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="col-${1:md}-10">
+    <input type="${2:text}" class="form-control" id="$3" name="$3" placeholder="$4" required>
+</div>
+]]></content>
+    <tabTrigger>binputh10</tabTrigger>
+</snippet>

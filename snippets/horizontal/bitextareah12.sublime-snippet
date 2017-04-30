@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="col-${1:md}-12">
+    <textarea class="form-control" id="$2" name="$2" required></textarea>
+</div>
+]]></content>
+    <tabTrigger>bitextareah12</tabTrigger>
+</snippet>

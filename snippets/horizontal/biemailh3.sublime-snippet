@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="col-${1:md}-3">
+    <input type="email" class="form-control" id="$2" name="$2" placeholder="$3" required>
+</div>
+]]></content>
+    <tabTrigger>biemailh3</tabTrigger>
+</snippet>

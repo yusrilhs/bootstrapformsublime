@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<label class="col-${1:md}-10 control-label">$2</label>
+]]></content>
+    <tabTrigger>blh10</tabTrigger>
+</snippet>
