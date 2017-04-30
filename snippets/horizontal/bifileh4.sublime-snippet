@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="col-${1:md}-4">
+    <input type="file" id="$2" name="$2" required>
+</div>
+]]></content>
+    <tabTrigger>bifileh4</tabTrigger>
+</snippet>
