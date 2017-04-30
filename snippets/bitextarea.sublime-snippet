@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+    <label for="$1">$2</label>
+    <textarea name="$1" id="$1" class="form-control"></textarea>
+</div>
+]]></content>
+    <tabTrigger>bitextarea</tabTrigger>
+</snippet>

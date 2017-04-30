@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<span class="help-block">$1</span>
+]]></content>
+    <tabTrigger>bbtn</tabTrigger>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="checkbox">
+    <label>
+        <input type="checkbox" name="$1" value="$2"> $3
+    </label>
+</div>
+]]></content>
+    <tabTrigger>bicheckbox</tabTrigger>
+</snippet>

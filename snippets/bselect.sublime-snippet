@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+    <label for="$1">$2</label>
+    <select name="$1" id="$1" class="form-control" required>
+        <option value="$3">$4</option>
+    </select>
+</div>
+]]></content>
+    <tabTrigger>bselect</tabTrigger>
+</snippet>

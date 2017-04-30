@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+    <label for="$1">$2</label>
+    <input type="file" id="$1" name="$1" required>
+</div>
+]]></content>
+    <tabTrigger>bifile</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<form method="$1" action="$2" class="form-horizontal">
+
+</form>
+]]></content>
+    <tabTrigger>bfhorizontal</tabTrigger>
+</snippet>

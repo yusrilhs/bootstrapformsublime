@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+    <label class="radio-inline">
+        <input type="radio" name="$1" value="$2"> $3
+    </label>
+]]></content>
+    <tabTrigger>biradioi</tabTrigger>
+</snippet>
