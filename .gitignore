@@ -1,1 +1,3 @@
 tests/
+# Builder script not include
+*.js
