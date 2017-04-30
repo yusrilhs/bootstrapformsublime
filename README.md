@@ -28,7 +28,7 @@ Maybe you are bored and are lazy to type the `div` and` input` bundles for the b
 
 ### Form horizontal snippet
 
-For form horizontal $number on below is a bootstrap grid system, should be between 1 and 12
+For form horizontal $number on below is a bootstrap grid system, should be a number between 1 and 12
 
 | Bootstrap Element             | Snippet                 |
 | ------------------------------|-------------------------|
@@ -38,5 +38,6 @@ For form horizontal $number on below is a bootstrap grid system, should be betwe
 | Input Email Horizontal        | biemailh$number         |
 | Input Number Horizontal       | binumberh$number        |
 | Input Textarea Horizontal     | bitextarea$number       |
+| Input File Horizontal         | bifileh$number          |
 | Select Horizontal             | bselecth$number         |
 | Input Horizontal              | binputh$number          |
