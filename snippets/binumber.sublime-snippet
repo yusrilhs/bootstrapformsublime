@@ -2,7 +2,7 @@
     <content><![CDATA[
 <div class="form-group">
     <label for="$1">$2</label>
-    <input type="number" id="$1" name="$1" class="form-control" required>
+    <input type="number" id="$1" name="$1" placeholder="$4" class="form-control" required>
 </div>
 ]]></content>
     <tabTrigger>binumber</tabTrigger>
