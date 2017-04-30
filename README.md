@@ -8,6 +8,11 @@ Maybe you are bored and are lazy to type the `div` and` input` bundles for the b
 * goto `Preferences > Browse Packages`
 * Extract package into the packages folder
 
+
+## How to use it
+
+Type the snippet below then press `tab`
+
 ## Cheatsheet
 
 | Bootstrap Element         | Snippet             |
@@ -47,3 +52,8 @@ For form horizontal $number on below is a bootstrap grid system, should be a num
 | Input File Horizontal         | bifileh$number          |
 | Select Horizontal             | bselecth$number         |
 | Input Horizontal              | binputh$number          |
+
+
+## License
+
+Licensed under the [MIT](https://github.com/yusrilhs/bootstrapformsublime/blob/master/LICENSE) license
