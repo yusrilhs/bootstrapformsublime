@@ -2,6 +2,12 @@
 
 Maybe you are bored and are lazy to type the `div` and` input` bundles for the bootstrap form. I created this snippet to help your boredom and laziness. Cheers!!
 
+## Installation
+
+* Download this [repo](https://github.com/yusrilhs/bootstrapformsublime/archive/master.zip)
+* goto `Preferences > Browse Packages`
+* Extract package into the packages folder
+
 ## Cheatsheet
 
 | Bootstrap Element         | Snippet             |
