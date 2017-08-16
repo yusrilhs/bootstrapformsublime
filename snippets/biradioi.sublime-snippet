@@ -4,5 +4,7 @@
         <input type="radio" name="$1" value="$2"> $3
     </label>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>biradioi</tabTrigger>
+    <description>Bootstrap 3 Input Radio Inline</description>
 </snippet>

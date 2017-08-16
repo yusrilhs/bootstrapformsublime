@@ -2,5 +2,7 @@
     <content><![CDATA[
 <button type="submit" class="btn btn-${1:primary}">$2</button>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>bbtn</tabTrigger>
+    <description>Bootstrap 3 Button</description>
 </snippet>

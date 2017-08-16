@@ -4,5 +4,7 @@
         <input type="checkbox" name="$1" value="$2"> $3
     </label>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>bicheckboxi</tabTrigger>
+    <description>Bootstrap 3 Input Checkbox Inline</description>
 </snippet>

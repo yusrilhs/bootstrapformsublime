@@ -6,5 +6,7 @@
     </label>
 </div>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>bicheckbox</tabTrigger>
+    <description>Bootstrap 3 Input Checkbox</description>
 </snippet>

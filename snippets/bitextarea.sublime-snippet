@@ -5,5 +5,7 @@
     <textarea name="$1" id="$1" class="form-control"></textarea>
 </div>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>bitextarea</tabTrigger>
+    <description>Bootstrap 3 Textarea</description>
 </snippet>

@@ -4,5 +4,7 @@
 
 </form>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>bf</tabTrigger>
+    <description>HTML Form</description>
 </snippet>

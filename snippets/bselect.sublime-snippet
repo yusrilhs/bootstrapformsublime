@@ -7,5 +7,7 @@
     </select>
 </div>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>bselect</tabTrigger>
+    <description>Bootstrap 3 Select</description>
 </snippet>

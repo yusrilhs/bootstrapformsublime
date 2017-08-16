@@ -5,5 +5,7 @@
     <input type="number" id="$1" name="$1" placeholder="$4" class="form-control" required>
 </div>
 ]]></content>
+    <scope>text.html</scope>
     <tabTrigger>binumber</tabTrigger>
+    <description>Bootstrap 3 Input Number</description>
 </snippet>
