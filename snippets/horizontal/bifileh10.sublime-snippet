@@ -3,6 +3,7 @@
 <div class="col-${1:md}-10">
     <input type="file" id="$2" name="$2" required>
 </div>
-]]></content>
+]]></content><scope>text.html</scope>
+    <description>Bootstrap 3 Input File Horizontal</description>
     <tabTrigger>bifileh10</tabTrigger>
 </snippet>

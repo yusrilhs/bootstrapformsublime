@@ -4,5 +4,7 @@
     <textarea class="form-control" id="$2" name="$2" required></textarea>
 </div>
 ]]></content>
+    <scope>text.html</scope>
+    <description>Bootstrap 3 Textarea Horizontal</description>
     <tabTrigger>bitextareah6</tabTrigger>
 </snippet>

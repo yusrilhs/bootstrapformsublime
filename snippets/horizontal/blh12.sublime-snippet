@@ -2,5 +2,7 @@
     <content><![CDATA[
 <label class="col-${1:md}-12 control-label">$2</label>
 ]]></content>
+    <scope>text.html</scope>
+    <description>Bootstrap 3 Label Horizontal</description>
     <tabTrigger>blh12</tabTrigger>
 </snippet>

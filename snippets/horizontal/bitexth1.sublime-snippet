@@ -4,5 +4,7 @@
     <input type="text" class="form-control" id="$2" name="$2" placeholder="$3" required>
 </div>
 ]]></content>
+    <scope>text.html</scope>
+    <description>Bootstrap 3 Input Text Horizontal</description>
     <tabTrigger>bitexth1</tabTrigger>
 </snippet>

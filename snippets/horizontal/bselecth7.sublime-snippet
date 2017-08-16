@@ -6,5 +6,7 @@
     </select>
 </div>
 ]]></content>
+    <scope>text.html</scope>
+    <description>Bootstrap 3 Select Horizontal</description>
     <tabTrigger>bselecth7</tabTrigger>
 </snippet>
